@@ -1,0 +1,30 @@
+Record added successfully 100.
+---------- hall of fame ----------
+Total eligible students: 2
+Qualified Students:
+2010CSE1227 / 4.99
+2010MEC1231 / 4.56
+-------------------------------------
+---------- new course candidates ----------
+Input: 3.5 to 4.0
+Total eligible students: 12
+Qualified Students:
+2010MEC1233 / 3.64
+2010ECE1236 / 3.75
+2011CSE1246 / 3.64
+2011MEC1249 / 3.75
+2012CSE1267 / 3.64
+2012MEC1270 / 3.75
+2012ARC1280 / 3.64
+2013CSE1283 / 3.75
+2013ARC1301 / 3.64
+2014CSE1304 / 3.75
+2014MEC1314 / 3.64
+2014ECE1317 / 3.75
+-------------------------------------
+---------- department CGPA ----------
+CSE: max: 4.99 avg: 2.9966666666666666
+ECE: max: 4.99 avg: 2.979600000000001
+MEC: max: 4.56 avg: 2.741
+ARC: max: 4.99 avg: 2.6940000000000004
+-------------------------------------
