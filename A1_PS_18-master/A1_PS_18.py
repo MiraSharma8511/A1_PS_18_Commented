@@ -82,7 +82,7 @@ class StudentHashTable:
 
 class UniversityReport:
     def __init__(self):
-        self.studentMap = StudentHashTable()
+        self.studentMap = StudentHashTable()  # Initialize student hash table.
 
     # The usage of this function is to read input file line by line and map key-value pair to hash table
     def read_input_file(self):
@@ -254,6 +254,6 @@ class UniversityReport:
 
 
 universityReport = UniversityReport()  # Initiate the University Report Class.
-universityReport.read_input_file()     # Read input file
-universityReport.read_prompts_file()   # Read prompt file
-universityReport.destroy_hash()        # Destroy the hash map and release the resource.
+universityReport.read_input_file()  # Read input file
+universityReport.read_prompts_file()  # Read prompt file
+universityReport.destroy_hash()  # Destroy the hash map and release the resource.
